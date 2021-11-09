@@ -1,0 +1,7 @@
+discord~=1.0.1
+setuptools~=49.2.1
+discord.py~=1.7.2
+git+https://github.com/Rapptz/discord-ext-menus
+asyncpg~=0.23.0
+toml~=0.10.2
+asyncio~=3.4.3
